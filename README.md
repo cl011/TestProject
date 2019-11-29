@@ -1,2 +1,2 @@
 # TestProject
-TEST
+openrestyDemo
